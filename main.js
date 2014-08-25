@@ -26,6 +26,6 @@ define(function (require, exports, module) {
     /*
      * Custom menu
      */
-    var menu = Menus.addMenu("Custom", "edgedocks.custom.menu");
+    var menu = Menus.addMenu("First Web", "edgedocks.custom.menu");
     menu.addMenuItem(commandName);
 });
