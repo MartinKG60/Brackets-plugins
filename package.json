@@ -3,7 +3,7 @@
     "title": "Code commenting",
     "description": "Code commenting with custom text",
     "homepage": "https://github.com/MartinKG60/Brackets-plugins",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "author": "Martin Gammelholm <martingammelholm@gmail.com>",
     "license": "MIT",
     "engines": {
